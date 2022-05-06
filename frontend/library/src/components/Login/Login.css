@@ -1,0 +1,22 @@
+.tet
+{
+    text-decoration: none;
+}
+.text-cen
+{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.im
+{
+  max-width: 3rem;
+  height: auto;
+  border-radius: 25px;
+}
+.ima
+{  max-width: 5rem;
+  height: auto;
+  border-radius: 30px;
+}
